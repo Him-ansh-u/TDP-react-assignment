@@ -3,6 +3,6 @@ import react from "@vitejs/plugin-react";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/TDP-react-assignment/",
+  base: "/tdp-react-assignment/ ",
   plugins: [react()],
 });
